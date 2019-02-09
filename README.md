@@ -1,1 +1,1 @@
-# E-voting-system
+# Codeigniter rapid application
